@@ -1,3 +1,10 @@
 .history
 .sass-cache
 design
+
+# misc
+.DS_Store
+
+# ide
+.vs/
+
