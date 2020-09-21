@@ -194,6 +194,13 @@ body {
     color:#9c9c9c;
 }
 
+.section-strong-subtitle {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 16px;
+    font-weight:400;
+    color:#111;
+}
+
 /* Testimonial */
 
 .testimonial q {
